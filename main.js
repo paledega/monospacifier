@@ -1,3 +1,3 @@
 document.getElementsByTagName("head")[0].insertAdjacentHTML(
-    "beforeend",
+    "afterend",
     "<style> * > * {font-family: monospace;}</stye>");
